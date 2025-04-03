@@ -9,7 +9,7 @@
 # including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
 # in no event shall the author be liable for any claim, damages or other liability.
 # the entire risk as to the quality and performance of the program is with you. should the program prove defective,
-# you assume the cost of all necessary servicing, repair or correction.
+# you assume the cost of all necessary servicing, repair or corrections.
 
 
 #....
